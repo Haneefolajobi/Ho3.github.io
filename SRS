@@ -1,0 +1,210 @@
+# Ho3.github.io
+
+<!DOCTYPE html>
+<body style="background:#23d400;">
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<style type="text/css">
+	span {
+		font-family: 'Calibri (Body)';
+		font-size: 20pt;
+		color: #1406db;
+	}
+	.sc0 {
+		font-weight: bold;
+	}
+	.sc1 {
+		color: #0400ff;
+	}
+	.sc21 {
+		background: #000000;
+	}
+	.sc26 {}
+</style>
+<title style="font-style: italic;">
+	HO3 Company</title>
+<body>
+	<P style="color:rgb(255, 136, 0);">
+	<p style="background-color:rgb(30, 18, 202);">
+	<h1 style="color:rgb(27, 30, 180);">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" href="/css/reset.css" type="text/css" media="all">
+		<link rel="stylesheet" href="/css/layout.css" type="text/css" media="all">
+		<link rel="stylesheet" href="/css/style.css" type="text/css" media="all">
+		<link rel="stylesheet" href="/css/zerogrid.css">
+		</script>
+		</head>
+		<body id="page1">
+			<div class="body1">
+				<div class="body1" style="background:#e8e9ee;">
+					<div class="main zerogrid">
+						<ul id="menu">
+							<h1>WELCOME TO HO3 COMPANY</h1>
+							<h2>WHERE WE GIVE THE BEST INNOVATIVE SCIENCE PROJECTS.</h2>
+							<H3>MOTTO</H3>
+							<h4>A.I.M</h4>
+							<p1>To activate,</p1>
+							<p2>To innovate,</p2>
+							<p3>To motivate.</p3>
+							<h4>THIS PAGE GIVE THE BEST IDEAS OR HELP IMPROVE THOUGHTS OF YOUNG MINDS.</h4>
+							<li id="nav1" class="active"><a href="/index.php/">Home Welcome<span></span></a></li>
+							<li id="nav2"><a href="trainees login"><span>Sign in</span></a></li>
+							<li id="nav4"><a href="mail to:info@olajobihaneef@gmail.com">Mail<span></span></a></li>
+							<li id="nav5"><a href="mail to:info@olajobihaneef@gmail.com">Contact us by our address<span>
+										</span></a></li>
+						</ul>
+						</nav>
+					</div>
+					</header>
+				</div>
+			</div>
+			</div>
+			<div class="body3">
+				<div class="body3" style="background:#00ff6a;"></div>
+				<div class="main zerogrid">
+					<article id="content">
+						<div class="wrapper row">
+							<div class="signup_link">
+								<ul>
+									<br />
+									If you are a member already just simply login!
+									<li> Login Form</li>
+								</ul>
+								<form name="login_form" id="login_form" action="/index.php/login" method="post"
+									autocomplete="off" class="Zebra_Form">
+									<div class="hidden"><input type="hidden" name="name_login_form" id="name_login_form"
+											value="login_form"><label for="zebra_honeypot_login_form"
+											style="display:none">Leave this field blank</label><input type="text"
+											name="zebra_honeypot_login_form" id="zebra_honeypot_login_form" value=""
+											class="control text" autocomplete="off"></div>
+									<table>
+										<tr class="row">
+											<td><label for="email" id="label_email">Email:<span
+														class="required">*</span></label></td>
+											<td><input type="text" name="email" id="email" value=""
+													class="control text"></td>
+										</tr>
+										<tr class="row even">
+											<td><label for="password" id="label_password">Password<span
+														class="required">*</span></label></td>
+											<td><input type="password" name="password" id="password" value=""
+													class="control password"></td>
+										</tr>
+										<tr class="row last">
+											<td></td>
+											<td><input type="submit" name="btnsubmit" id="btnsubmit" value="Login"
+													class="submit"></td>
+										</tr>
+									</table>
+								</form>
+								<script
+									type="text/javascript">function init_9677cb63a07ec5210116ee1e744faf64() { if (typeof jQuery == "undefined" || typeof jQuery.fn.Zebra_Form == "undefined") { setTimeout("init_9677cb63a07ec5210116ee1e744faf64()", 100); return } else { $(document).ready(function () { $("#login_form").Zebra_Form({ clientside_disabled: false, close_tips: true, on_ready: false, scroll_to_error: true, tips_position: 'left', validate_on_the_fly: false, validate_all: false, validation_rules: { "email": { "required": ["Email is required!"] }, "password": { "required": ["Password is required!"] } } }) }) } } init_9677cb63a07ec5210116ee1e744faf64()</script>
+							</div>
+						</div>
+				</div>
+			</div>
+			<div class="body3">
+				<div class="main zerogrid">
+					<!-- content -->
+					<article id="content">
+						<div class="wrapper row">
+							<section class="col-1-4">
+								<div class="wrap-col">
+									<h3><span class="dropcap"></span>A Boost Your <span>mind</span></h3>
+									<p class="pad_bot1">It helps the mind to adapt and ensure you are focused</p>
+									<a href="#" class="link1">Read More</a>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+									<h3>
+										<span class="dropcap"></span>B Join Us
+										<span>
+											<a href="HO3 register">Register NOW!</a>
+										</span>
+									</h3>
+									<p class="pad_bot1">Create an HO3 account now to access all of our amazing innovative products</p>
+									<a href="/index.php/register/org_user" class="link1">Register Now</a>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+									<h3><span class="dropcap"></span>C   Flexible Pricing<span></span></h3>
+									<p class="pad_bot1">Our flexible model of learning makes it easier.</p>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+								</div>
+							</section>
+						</div>
+						<div class="wrapper row">
+							<section class="col-3-4">
+								<div class="wrap-col">
+									<h2 class="under">Our Service</h2>
+									<div class="wrapper">
+										<p class="pad_bot1">We help you to achieve your innovative goal.</p>
+										<p>
+										</p>
+									</div>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+								</div>
+						</div>
+						</section>
+				</div>
+				</article>
+			</div>
+			</div>
+
+			<div class="body4">
+				<div class="body4" style="background:#020202;"></div>
+				<div class="main zerogrid">
+					<article id="content2">
+						<div class="wrapper row">
+							<section class="col-1-4">
+								<div class="wrap-col">
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+									<h4>Address</h4>
+									<ul class="address">
+										<!--<li><span>Country:</span>NIGERIA</li>
+							<li><span>City:</span>LAGOS</li>-->
+										<li><span>Phone:</span></li>
+										<li><span>Email:</span><a href="mailto:">info@olajobihaneef@gmail.com</a></li>
+									</ul>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+									</ul>
+								</div>
+							</section>
+							<section class="col-1-4">
+								<div class="wrap-col">
+									<h4>If you have any Questions or any difficulties just simply type in your email address and your problem THANK YOU!</h4>
+									<form id="If you have any Questions" method="post"></form>
+									<div>
+										<div class="wrapper">
+											<input class="input" type="text" value="Type Your Email Here"
+												onblur="if(this.value=='') this.value='Type Your Email Here'"
+												onfocus="if(this.value =='Type Your Email Here' ) this.value=''">
+										</div>
+										<a href="#" class="button"
+											onclick="document.getElementById('Question').submit()">Subscribe</a>
+									</div>
+									</form>
+								</div>
+							</section>
+						</div>
+					</article>
+					<!-- content end -->
+				</div>
+			</div>
+			<div class="main zerogrid">
+			</div>
+		</body>
+		</html>
