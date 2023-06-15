@@ -1,0 +1,162 @@
+<html>
+<head> 
+</ul>
+<title>
+<SRS> 
+</title>
+<style>
+*{
+margin:0; padding:0; box sizing:border-box;
+}
+body{
+width: 100%; height: 100vh;
+background-color: rgb(251, 255, 0);
+background-repeat: no-repeat;
+background-size: cover;
+}
+nav1{
+width: 100%; height: 15vh;
+background: rgb(255, 5, 5);
+display: flex; justify-content: space-between;
+align-items: center;
+}
+nav .mainmenu{
+width: 30%;
+display: flex; justify-content: space-around;
+}
+main{
+width: 100%; height: 85vh;
+display: flex; justify-content: center;
+align-items: center;
+text-align: center;
+}
+section div{background-color: #ff0000;}
+<h1 style="color:rgb(0, 53, 12);">
+section h3{
+letter-spacing: 5px; font-weight: 400;
+}
+section h1{
+text-transform: uppercase;
+}
+section div{background-color: #ff0000;}
+section div{
+animation:changeborder 10s infinite linear;
+border: 7px solid rgb(0, 17, 255);
+}
+@keyframes changeborder{
+0%
+20%
+40%
+}
+</head>
+
+</style>
+<div style=img src:c"\Users\HP\Pictures\ho3.png>
+</div>
+</head>
+
+<!--Use header to indicate that manu will be a part of header -->
+<!--Let us create a simple menu using the navigation tags-->
+<header>
+    
+    
+<!--Lets define the menu items now-->
+ <div class ="body1"></div>
+ <div class = "body1" STYLE="BACKGround:#00ff00;"></div><div class="main zerogrid">
+    <article id="content">
+        <div class="wrapper row">
+            
+</div>
+</nav>
+<!--Let us create the main section now, if you are not using html5, use div tags-->
+<main>
+<section>
+<!--Check out the styling elements for this div class - change_text -->
+
+
+
+<div class = "change_text"><a>WELCOME TO SILMOPE RENTAL RENTALS</a></div>
+<a href ="C:\Users\USER\Documents\neef.html">Home><span></span></a><li></li>
+<div class ="change_text"><c>WERE WE HELP TO PROVIDE FOR ALL YOUR PRECIOUS EVENTS</c></div>
+<div class="body2">
+
+
+<div class = "logo" 
+    <h3 font ="Calibri Body">  
+    <h3 style ="color:rgb(252, 235, 0);"> 
+            [SILMOPE RENTAL SERVICES]</h3></div>
+
+            <h5>If you have any difficulties just simply type in your email address and your problem THANK YOU !</h5>
+									<form id="If you have any Questions" method="post"></form>
+									<div>
+										<div class="wrapper">
+											<input class="input" type="text" value="Type Your Email Here"
+												onblur="if(this.value=='') this.value='Type Your Email Here'"
+												onfocus="if(this.value =='Type Your Email Here' ) this.value=''">
+										</div>
+										<a href="#" class="button"
+											onclick="document.getElementById('Question').submit()">Subscribe</a>
+									</div>
+									</form>
+								</div>
+							</section>
+						</div> </div>  
+                        <li> Login Form</li>
+                        If you are a member already just simply login!
+                        <div class ="body1">
+                            <div class = "body1" style="BACKGround:#d9ff00;"></div>
+                            <div class="main zerogrid">
+                            <article id="content">
+                               <div class="wrapper row"> 
+                                <div class="signup_link"></div>
+                            <form name="login_form" id="login_form" action="/index.php/login" method="post"
+                            autocomplete="off" class="Zebra_Form">
+                            <div class="hidden"><input type="hidden" name="name_login_form" id="name_login_form"
+                                    value="login_form"><label for="zebra_honeypot_login_form"
+                                    style="display:none">Leave this field blank</label><input type="text"
+                                    name="zebra_honeypot_login_form" id="zebra_honeypot_login_form" value=""
+                                    class="control text" autocomplete="off"></div>
+                            <table>
+                                <tr class="row">
+                                    <td><label for="email" id="label_email">Email:<span
+                                                class="required">*</span></label></td>
+                                    <td><input type="text" name="email" id="email" value=""
+                                            class="control text"></td>
+                                </tr>
+                                <tr class="row even">
+                                    <td><label for="password" id="label_password">Password<span
+                                                class="required">*</span></label></td>
+                                    <td><input type="password" name="password" id="password" value=""
+                                            class="control password"></td>
+                                </tr>
+                                <tr class="row last">
+                                    <td></td>
+                                    <td><input type="submit" name="btnsubmit" id="btnsubmit" value="Login"
+                                            class="submit">
+                                        </td>
+                                </tr>
+                            </table>
+                            </form>
+                            </article>
+                            </div>
+                            <div class="body2" style="background:#ffd900;"></div>
+                            <div class="main zerogrid">
+                                <article id="content">
+                                    <div class="wrapper row">
+                                       
+                                            <ul>
+                                                <br />
+                                              
+                                            <script
+                                                type="text/javascript">function init_9677cb63a07ec5210116ee1e744faf64() { if (typeof jQuery == "undefined" || typeof jQuery.fn.Zebra_Form == "undefined") { setTimeout("init_9677cb63a07ec5210116ee1e744faf64()", 100); return } else { $(document).ready(function () { $("#login_form").Zebra_Form({ clientside_disabled: false, close_tips: true, on_ready: false, scroll_to_error: true, tips_position: 'left', validate_on_the_fly: false, validate_all: false, validation_rules: { "email": { "required": ["Email is required!"] }, "password": { "required": ["Password is required!"] } } }) }) } } init_9677cb63a07ec5210116ee1e744faf64()</script>
+                                        </div>
+                                   
+                            </div>
+                            </div></div>
+
+<!--make text italic-->
+</section>
+</main>
+</header>
+</body>
+</html>
